@@ -1,4 +1,4 @@
-![alt text](https://github.com/hao-nuearn/nuearn/Nuearn-Hello-World.gif "Demo")
+![Demo](https://github.com/hao-nuearn/nuearn/blob/master/Nuearn-Hello-World.gif "Demo")
 
 # Note
 Currently the SmartContract associated with this repo is deployed
