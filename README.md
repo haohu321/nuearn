@@ -24,7 +24,7 @@ Swapping with mainnet should be super easy.
 `brownie run scripts/deploy.py [--network ${YOUR_DESIRED_ETH_NETWORK}`
 
 ## To test with the toy index page:
-1. Inside the repor directory, run:
+1. Inside the repo directory nuearn/web/, run:
   `python -m SimpleHTTPServer 8000`
 
 2. In the browser, access localhost:8000
