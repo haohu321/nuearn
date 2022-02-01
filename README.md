@@ -1,3 +1,5 @@
+![alt text](https://github.com/hao-nuearn/nuearn/Nuearn-Hello-World.gif "Demo")
+
 # Note
 Currently the SmartContract associated with this repo is deployed
 to ropsten testnet. You can play with it by just setting up Python & Node
